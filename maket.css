@@ -1380,3 +1380,169 @@ body {
   top: 215px;
   z-index: 271;
 }
+
+.title_end {
+  font-size: 16px;
+  font-family: "ARIAL";
+  color: rgba(255, 255, 255, 0.8);
+  line-height: 1.563;
+  position: absolute;
+  left: 672px;
+  top: 7988px;
+  z-index: 277;
+}
+
+.protitle_end {
+  font-size: 16px;
+  font-family: "ARIAL";
+  color: rgba(255, 255, 255, 0.4);
+  line-height: 1.563;
+  text-align: center;
+  position: absolute;
+  left: 547px;
+  top: 8128px;
+  z-index: 276;
+}
+
+.stone1 {
+  background-color: rgb(113, 246, 235);
+  position: absolute;
+  left: 618px;
+  top: 8026px;
+  width: 46px;
+  height: 40px;
+  z-index: 292;
+}
+
+.stone11 {
+  font-size: 20px;
+  font-family: "SEGOE SCRIPT";
+  color: rgba(0, 0, 0, 0.949);
+  line-height: 2.1;
+  position: absolute;
+  left: 633px;
+  top: 7980px;
+  z-index: 293;
+}
+
+.stone22 {
+  position: absolute;
+  width: 49px;
+  height: 44px;
+  left: 671px;
+  top: 8024px;
+  z-index: 285;
+}
+
+.stone33 {
+  position: absolute;
+  width: 49px;
+  height: 42px;
+  left: 724px;
+  top: 8025px;
+  z-index: 281;
+}
+
+.stone44 {
+  position: absolute;
+  width: 49px;
+  height: 42px;
+  left: 777px;
+  top: 8025px;
+  z-index: 288;
+}
+
+.INFO {
+  font-size: 15px;
+  font-family: "BOOK ANTIQUA";
+  color: rgba(255, 255, 255, 0.702);
+  line-height: 1.6;
+  position: absolute;
+  left: 24px;
+  top: 20px;
+  z-index: 248;
+}
+
+.line {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 182px;
+  top: 7395px;
+  width: 550px;
+  height: 2px;
+  z-index: 257;
+}
+
+.line2 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 182px;
+  top: 7454px;
+  width: 550px;
+  height: 2px;
+  z-index: 253;
+}
+
+.line3 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 182px;
+  top: 7512px;
+  width: 550px;
+  height: 2px;
+  z-index: 261;
+}
+
+.line4 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 182px;
+  top: 7649px;
+  width: 550px;
+  height: 2px;
+  z-index: 265;
+}
+
+.Name_ {
+  font-size: 15px;
+  font-family: "BOOK ANTIQUA";
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 3.4;
+  position: absolute;
+  left: 184px;
+  top: 7332px;
+  z-index: 258;
+}
+
+.Subject_ {
+  font-size: 15px;
+  font-family: "BOOK ANTIQUA";
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 3.4;
+  position: absolute;
+  left: 185px;
+  top: 7390px;
+  z-index: 254;
+}
+
+.E_mail_ {
+  font-size: 15px;
+  font-family: "BOOK ANTIQUA";
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 3.4;
+  position: absolute;
+  left: 184px;
+  top: 7450px;
+  z-index: 262;
+}
+
+.Massage_ {
+  font-size: 15px;
+  font-family: "BOOK ANTIQUA";
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 3.4;
+  position: absolute;
+  left: 184px;
+  top: 7515px;
+  z-index: 266;
+}
