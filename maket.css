@@ -788,7 +788,7 @@ body {
 
 .all_text1 {
   font-size: 18px;
-  font-family: "Raleway";
+  font-family: "century gothic";
   color: rgba(249, 251, 251, 0.902);
   text-transform: uppercase;
   line-height: 4.722;
@@ -799,4 +799,584 @@ body {
   z-index: 92;
 }
 
+.protext2 {
+  font-size: 16px;
+  font-family: "century gothic";
+  color: rgba(255, 255, 255, 0.902);
+  line-height: 1.563;
+  text-align: left;
+  position: absolute;
+  left: 882px;
+  top: 500px;
+  width: 312px;
+  height: 63px;
+  z-index: 95;
+}
 
+.text5 {
+  font-size: 20px;
+  font-family: "ARIAL";
+  color: rgba(255, 255, 255, 0.949);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.45;
+  text-align: left;
+  position: absolute;
+  left: 212px;
+  top: 1200px;
+  z-index: 112;
+}
+
+.protext5 {
+  font-size: 16px;
+  font-family: "century gothic";
+  color: rgba(255, 255, 255, 0.902);
+  line-height: 1.625;
+  text-align: left;
+  position: absolute;
+  left: 214px;
+  top: 1250px;
+  width: 276px;
+  height: 65px;
+  z-index: 113;
+}
+
+.all_text5 {
+  font-size: 18px;
+  font-family: "Raleway";
+  color: rgba(249, 251, 251, 0.8);
+  text-transform: uppercase;
+  line-height: 4.722;
+  text-align: center;
+  position: absolute;
+  left: 216px;
+  top: 1370px;
+  z-index: 110;
+}
+
+.text3 {
+  font-size: 20px;
+  font-family: "ARIAL";
+  color: rgba(255, 255, 255, 0.949);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.45;
+  text-align: left;
+  position: absolute;
+  left: 212px;
+  top: 880px;
+  z-index: 135;
+}
+
+.protext3 {
+  font-size: 16px;
+  font-family: "century gothic";
+  color: rgba(255, 255, 255, 0.902);
+  line-height: 1.563;
+  text-align: left;
+  position: absolute;
+  left: 212px;
+  top: 910px;
+  width: 396px;
+  height: 38px;
+  z-index: 136;
+}
+
+.all_text3 {
+  font-size: 19px;
+  font-family: "century gothic";
+  color: rgba(255, 255, 255, 0.769);
+  text-transform: uppercase;
+  line-height: 4.474;
+  text-align: center;
+  position: absolute;
+  left: 215px;
+  top: 985px;
+  z-index: 132;
+}
+
+.text4 {
+  font-size: 20px;
+  font-family: "ARIAL";
+  color: rgba(255, 255, 255, 0.949);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.45;
+  text-align: left;
+  position: absolute;
+  left: 879px;
+  top: 880px;
+  z-index: 103;
+}
+
+.protext4 {
+  font-size: 16px;
+  font-family: "century gothic";
+  color: rgba(255, 255, 255, 0.91);
+  line-height: 1.563;
+  text-align: left;
+  position: absolute;
+  left: 880px;
+  top: 910px;
+  width: 305px;
+  height: 41px;
+  z-index: 104;
+}
+
+.all_text4 {
+  font-size: 18px;
+  font-family: "century gothic";
+  color: rgba(249, 251, 251, 0.8);
+  text-transform: uppercase;
+  line-height: 4.722;
+  text-align: center;
+  position: absolute;
+  left: 880px;
+  top: 985px;
+  z-index: 101;
+}
+
+.text6 {
+  font-size: 20px;
+  font-family: "ARIAL";
+  color: rgba(255, 255, 255, 0.949);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.45;
+  text-align: left;
+  position: absolute;
+  left: 704px;
+  top: 1200px;
+  z-index: 122;
+}
+
+.all_text6 {
+  font-size: 19px;
+  font-family: "century gothic";
+  color: rgba(255, 255, 255, 0.851);
+  text-transform: uppercase;
+  line-height: 4.474;
+  text-align: center;
+  position: absolute;
+  left: 707px;
+  top: 1370px;
+  z-index: 120;
+}
+
+.protext6 {
+  font-size: 16px;
+  font-family: "century gothic";
+  color: rgba(255, 255, 255, 0.91);
+  line-height: 1.563;
+  text-align: left;
+  position: absolute;
+  left: 705px;
+  top: 1250px;
+  width: 396px;
+  height: 63px;
+  z-index: 123;
+}
+
+.block6 {
+  background-color: rgb(249, 251, 251);
+  position: absolute;
+  top: 5888px;
+  width: 1440px;
+  height: 923px;
+  z-index: 187;
+}
+
+.title6 {
+  font-size: 38px;
+  font-family: "ARIAL";
+  color: rgba(0, 0, 0, 0.902);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 0.737;
+  position: absolute;
+  left: 520px;
+  top: 115px;
+  z-index: 189;
+}
+
+.title66 {
+  font-size: 17px;
+  font-family: "ARIAL";
+  color: rgba(0, 0, 0, 0.62);
+  text-transform: uppercase;
+  line-height: 1.647;
+  text-align: center;
+  position: absolute;
+  left: 435px;
+  top: 150px;
+  z-index: 190;
+}
+
+.man {
+  border-radius: 3px;
+  background-color: rgb(236, 237, 239);
+  box-shadow: 0px 6px 100px 0px rgba(20, 20, 21, 0.15);
+  position: absolute;
+  left: 185px;
+  top: 320px;
+  width: 319px;
+  height: 430px;
+  z-index: 224;
+}
+
+.fon_man {
+  border-radius: 3px;
+  background-color: rgb(236, 237, 239);
+  position: absolute;
+  left: 148px;
+  top: 350px;
+  width: 393px;
+  height: 362px;
+  z-index: 192;
+}
+
+.lefttext {
+  border-radius: 3px;
+  background-color: rgb(234, 235, 237);
+  position: absolute;
+  left: 623px;
+  top: 350px;
+  width: 666px;
+  height: 362px;
+  z-index: 193;
+}
+
+.lefttitle {
+  font-size: 20px;
+  font-family: "ARIAL";
+  color: rgba(0, 0, 0, 0.949);
+  font-weight: bold;
+  line-height: 1.4;
+  text-align: center;
+  position: absolute;
+  left: 823px;
+  top: 410px;
+  z-index: 223;
+}
+
+.leftprotitle {
+  font-size: 16px;
+  font-family: "century gothic";
+  color: rgba(0, 0, 0, 0.702);
+  line-height: 1.688;
+  text-align: center;
+  position: absolute;
+  left: 702px;
+  top: 450px;
+  width: 499px;
+  height: 97px;
+  z-index: 215;
+}
+
+.star1 {
+  background-color: rgb(242, 218, 59);
+  position: absolute;
+  left: 904px;
+  top: 600px;
+  width: 16px;
+  height: 14px;
+  z-index: 217;
+}
+.star2 {
+  background-color: rgb(242, 218, 59);
+  position: absolute;
+  left: 926px;
+  top: 600px;
+  width: 16px;
+  height: 14px;
+  z-index: 218;
+}
+
+.star3 {
+  background-color: rgb(242, 218, 59);
+  position: absolute;
+  left: 948px;
+  top: 600px;
+  width: 17px;
+  height: 14px;
+  z-index: 219;
+}
+
+.star4 {
+  background-color: rgb(242, 218, 59);
+  position: absolute;
+  left: 970px;
+  top: 600px;
+  width: 16px;
+  height: 14px;
+  z-index: 220;
+}
+
+.star5 {
+  background-color: rgb(242, 218, 59);
+  position: absolute;
+  left: 992px;
+  top: 600px;
+  width: 16px;
+  height: 14px;
+  z-index: 221;
+}
+
+.point1 {
+  border-radius: 3px;
+  background-color: rgb(208, 208, 208);
+  position: absolute;
+  left: 324px;
+  top: 780px;
+  width: 10px;
+  height: 10px;
+  z-index: 227;
+}
+
+.point2 {
+  border-radius: 3px;
+  background-color: rgb(113, 246, 235);
+  position: absolute;
+  left: 337px;
+  top: 780px;
+  width: 11px;
+  height: 10px;
+  z-index: 228;
+}
+
+.point3 {
+  border-radius: 3px;
+  background-color: rgb(208, 208, 208);
+  position: absolute;
+  left: 350px;
+  top: 780px;
+  width: 11px;
+  height: 10px;
+  z-index: 229;
+}
+
+.point4 {
+  border-radius: 3px;
+  background-color: rgb(208, 208, 208);
+  position: absolute;
+  left: 364px;
+  top: 780px;
+  width: 10px;
+  height: 10px;
+  z-index: 230;
+}
+
+.str2 {
+  border-radius: 3px;
+  background-color: rgb(113, 246, 235);
+  box-shadow: 0px 6px 11px 0px rgba(20, 20, 21, 0.1);
+  position: absolute;
+  left: 1236px;
+  top: 750px;
+  width: 53px;
+  height: 53px;
+  z-index: 196;
+}
+
+.str1 {
+  border-radius: 3px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 8px 11px 0px rgba(20, 20, 21, 0.05);
+  position: absolute;
+  left: 1154px;
+  top: 750px;
+  width: 53px;
+  height: 53px;
+  z-index: 200;
+}
+
+.strela1 {
+  font-size: 20px;
+  font-family: "ARIAL";
+  color: rgba(0, 0, 0, 0.949);
+  position: absolute;
+  left: 1256px;
+  top: 755px;
+  width: 14px;
+  height: 15px;
+  z-index: 197;
+}
+
+.strela2 {
+  font-size: 20px;
+  font-family: "ARIAL";
+  color: rgba(0, 0, 0, 0.949);
+  position: absolute;
+  left: 1174px;
+  top: 755px;
+  width: 14px;
+  height: 15px;
+  z-index: 201;
+}
+
+.RKO1 {
+  position: absolute;
+  left: 487px;
+  top: 6900px;
+  width: 100px;
+  height: 55px;
+  z-index: 235;
+}
+
+.Audi {
+  position: absolute;
+  left: 692px;
+  top: 6900px;
+  width: 100px;
+  height: 55px;
+  z-index: 235;
+}
+
+.Infinity {
+  position: absolute;
+  left: 885px;
+  top: 6900px;
+  width: 100px;
+  height: 50px;
+  z-index: 235;
+}
+
+.sport {
+  position: absolute;
+  left: 154px;
+  top: 7005px;
+  width: 100px;
+  height: 55px;
+  z-index: 235;
+}
+
+.swan {
+  position: absolute;
+  left: 367px;
+  top: 7000px;
+  width: 100px;
+  height: 55px;
+  z-index: 235;
+}
+
+.swanser {
+  position: absolute;
+  left: 562px;
+  top: 7000px;
+  width: 100px;
+  height: 55px;
+  z-index: 235;
+}
+
+.Audi2 {
+  position: absolute;
+  left: 772px;
+  top: 7000px;
+  width: 100px;
+  height: 55px;
+  z-index: 235;
+}
+
+.Infinity2 {
+  position: absolute;
+  left: 965px;
+  top: 7000px;
+  width: 100px;
+  height: 50px;
+  z-index: 235;
+}
+
+.RKO2 {
+  position: absolute;
+  left: 1175px;
+  top: 7000px;
+  width: 100px;
+  height: 55px;
+  z-index: 235;
+}
+
+.block8 {
+  background-color: rgb(248, 250, 251);
+  opacity: 0.671;
+  position: absolute;
+  top: 7198px;
+  width: 1440px;
+  height: 923px;
+  z-index: 240;
+}
+
+.christmas {
+  background-color: rgb(249, 251, 251);
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+  height: 923px;
+  z-index: 238;
+}
+
+.end {
+  background-color: rgb(38, 43, 46);
+  position: absolute;
+  top: 7902px;
+  width: 1440px;
+  height: 316px;
+  z-index: 241;
+}
+ .pole1 {
+  background-color: rgb(2, 22, 35);
+  opacity: 0.71;
+  box-shadow: 0px 0px 30px 0px rgba(21, 21, 21, 0.12);
+  position: absolute;
+  left: 151px;
+  top: 7319px;
+  width: 614px;
+  height: 460px;
+  z-index: 251;
+}
+.pole2 {
+  background-color: rgb(2, 22, 35);
+  opacity: 0.71;
+  box-shadow: 0px 0px 3px 0px rgba(21, 21, 21, 0.16);
+  position: absolute;
+  left: 791px;
+  top: 7319px;
+  width: 500px;
+  height: 461px;
+  z-index: 245;
+}
+
+.buttom {
+  border-radius: 2px;
+  background-color: rgb(110, 238, 228);
+  position: absolute;
+  left: 182px;
+  top: 7688px;
+  width: 244px;
+  height: 53px;
+  z-index: 270;
+}
+
+.text_buttom {
+  font-size: 18px;
+  font-family: "ARIAL";
+  color: rgba(0, 0, 0, 0.702);
+  text-transform: uppercase;
+  line-height: 1.556;
+  position: absolute;
+  left: 220px;
+  top: 7684px;
+  z-index: 271;
+}
+
+.karta {
+  font-size: 18px;
+  font-family: "ARIAL";
+  color: rgba(0, 0, 0, 0.702);
+  text-transform: uppercase;
+  line-height: 1.556;
+  position: absolute;
+  left: 24px;
+  top: 215px;
+  z-index: 271;
+}
