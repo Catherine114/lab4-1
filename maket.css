@@ -395,10 +395,10 @@ body {
 
 .block4 {
   background-color: rgb(249, 251, 251);
-  position: absolute;
-  top: 2956px;
+  float: left;
+  margin-top: 2956px;
   width: 1440px;
-  height: 1618px;
+  height: 1620px;
   z-index: 81;
 }
 
@@ -410,9 +410,9 @@ body {
   text-transform: uppercase;
   line-height: 0.737;
   text-align: center;
-  position: absolute;
-  left: 559px;
-  top: 125px;
+  float: inherit;
+  margin-top: 125px;
+  margin-left: 559px;
   z-index: 83;
 }
 
@@ -423,18 +423,18 @@ body {
   text-transform: uppercase;
   line-height: 1.647;
   text-align: center;
-  position: absolute;
-  left: 440px;
-  top: 165px;
+  float: inherit;
+  margin-top: 10px;
+  margin-left: 440px;
   z-index: 84;
 }
 
 .blue1 {
   background-color: rgb(109, 246, 235);
   opacity: 0.969;
-  position: absolute;
-  left: 149px;
-  top: 300px;
+  float: left;
+  margin-left: 149px;
+  margin-top: 120px;
   width: 652px;
   height: 422px;
   z-index: 142;
@@ -442,21 +442,21 @@ body {
 
 .grey1 {
   background-color: rgb(0, 0, 0);
-  opacity: 0.651;
-  position: absolute;
-  left: 815px;
-  top: 300px;
+  opacity: 0.9;
+  float: left;
+  margin-left: 15px;
+  margin-top: 120px;
   width: 474px;
   height: 422px;
-  z-index: 91;
+  z-index: 91;  
 }
 
 .grey2 {
   background-color: rgb(0, 0, 0);
-  opacity: 0.651;
-  position: absolute;
-  left: 149px;
-  top: 737px;
+  opacity: 0.9;
+  float: left;
+  margin-left: 149px;
+  margin-top: 15px;
   width: 652px;
   height: 370px;
   z-index: 129;
@@ -464,10 +464,10 @@ body {
 
 .grey3 {
   background-color: rgb(0, 0, 0);
-  opacity: 0.651;
-  position: absolute;
-  left: 815px;
-  top: 737px;
+  opacity: 0.9;
+  float: left;
+  margin-left: 15px;
+  margin-top: 15px;
   width: 474px;
   height: 370px;
   z-index: 100;
@@ -475,10 +475,10 @@ body {
 
 .grey4 {
   background-color: rgb(0, 0, 0);
-  opacity: 0.651;
-  position: absolute;
-  left: 150px;
-  top: 1122px;
+  opacity: 0.9;
+  float: left;
+  margin-left: 150px;
+  margin-top: 15px;
   width: 472px;
   height: 371px;
   z-index: 109;
@@ -486,19 +486,19 @@ body {
 
 .grey5 {
   background-color: rgb(0, 0, 0);
-  opacity: 0.651;
-  position: absolute;
-  left: 637px;
-  top: 1122px;
+  opacity: 0.9;
+  float: left;
+  margin-left: 15px;
+  margin-top: 15px;
   width: 652px;
   height: 371px;
   z-index: 118;
 }
 
 .krest {
-  position: absolute;
-  left: 70px;
-  top: 340px;
+  float: left;
+  margin-left: 70px;
+  margin-top: -90px;
   width: 17px;
   height: 17px;
   z-index: 145;
@@ -512,9 +512,9 @@ body {
   text-transform: uppercase;
   line-height: 1.45;
   text-align: left;
-  position: absolute;
-  left: 70px;
-  top: 50px;
+  float: left;
+  margin-left: 70px;
+  margin-top: -370px;
   z-index: 144;
 }
 
@@ -524,9 +524,9 @@ body {
   color: rgba(0, 0, 0, 0.749);
   line-height: 1.75;
   text-align: left;
-  position: absolute;
-  left: 71px;
-  top: 80px;
+  float: left;
+  margin-left: 70px;
+  margin-top: -310px;
   width: 470px;
   height: 156px;
   z-index: 146;
@@ -534,29 +534,25 @@ body {
 
 .img2 {
   background-color: rgb(23, 13, 13);
-  position: absolute;
-  left: 815px;
-  top: 300px;
+  float: left;
+  margin-left: 0px;
+  
+  display: inline-block;
+  opacity: 0.3;
   width: 474px;
   height: 422px;
   z-index: 89;
 }
 
-.grey_fon {
-  background-color: rgb(226, 226, 226);
-  position: absolute;
-  left: 149px;
-  top: 737px;
-  width: 652px;
-  height: 371px;
-  z-index: 127;
-}
+
 
 .img3 {
   background-color: rgb(226, 226, 226);
-  position: absolute;
-  left: 149px;
-  top: 737px;
+  float: left;
+  margin-left: 0px;
+  margin-right: 15px;
+  display: inline-block;
+  opacity: 0.3;
   width: 652px;
   height: 371px;
   z-index: 127;
@@ -564,9 +560,11 @@ body {
 
 .img4 {
   background-color: rgb(23, 13, 13);
-  position: absolute;
-  left: 815px;
-  top: 737px;
+  float: left;
+  margin-left: 0px;
+  margin-right: 15px;
+  display: inline-block;
+  opacity: 0.3;
   width: 474px;
   height: 370px;
   z-index: 98;
@@ -574,9 +572,11 @@ body {
 
 .img5 {
   background-color: rgb(23, 13, 13);
-  position: absolute;
-  left: 150px;
-  top: 1122px;
+  float: left;
+  margin-left: 0px;
+  margin-right: 15px;
+  display: inline-block;
+  opacity: 0.3;
   width: 472px;
   height: 370px;
   z-index: 107;
@@ -584,9 +584,11 @@ body {
 
 .img6 {
   background-color: rgb(241, 211, 0);
-  position: absolute;
-  left: 638px;
-  top: 1122px;
+  float: left;
+  margin-left: 0px;
+  margin-right: 15px;
+  display: inline-block;
+  opacity: 0.3;
   width: 651px;
   height: 371px;
   z-index: 116;
@@ -594,9 +596,11 @@ body {
 
 .img1 {
   background-color: rgb(226, 226, 226);
-  position: absolute;
-  left: 149px;
-  top: 300px;
+  float: left;
+  margin-left: 0px;
+  margin-right: 15px;
+  display: inline-block;
+  opacity: 0.1;
   width: 652px;
   height: 422px;
   z-index: 140;
@@ -780,9 +784,9 @@ body {
   text-transform: uppercase;
   line-height: 1.45;
   text-align: left;
-  position: absolute;
-  left: 880px;
-  top: 450px;
+  float: left;
+  margin-left: 70px;
+  margin-top: -260px;
   z-index: 94;
 }
 
@@ -792,10 +796,10 @@ body {
   color: rgba(249, 251, 251, 0.902);
   text-transform: uppercase;
   line-height: 4.722;
-  text-align: center;
-  position: absolute;
-  left: 880px;
-  top: 600px;
+  text-align: left;
+  float: left;
+  margin-left: 72px;
+  margin-top: -100px;
   z-index: 92;
 }
 
@@ -805,9 +809,9 @@ body {
   color: rgba(255, 255, 255, 0.902);
   line-height: 1.563;
   text-align: left;
-  position: absolute;
-  left: 882px;
-  top: 500px;
+  float: left;
+  margin-left: 72px;
+  margin-top: -210px;
   width: 312px;
   height: 63px;
   z-index: 95;
@@ -821,9 +825,9 @@ body {
   text-transform: uppercase;
   line-height: 1.45;
   text-align: left;
-  position: absolute;
-  left: 212px;
-  top: 1200px;
+  float: left;
+  margin-left: 70px;
+  margin-top: -260px;
   z-index: 112;
 }
 
@@ -833,9 +837,9 @@ body {
   color: rgba(255, 255, 255, 0.902);
   line-height: 1.625;
   text-align: left;
-  position: absolute;
-  left: 214px;
-  top: 1250px;
+  float: left;
+  margin-left: 72px;
+  margin-top: -210px;
   width: 276px;
   height: 65px;
   z-index: 113;
@@ -848,9 +852,9 @@ body {
   text-transform: uppercase;
   line-height: 4.722;
   text-align: center;
-  position: absolute;
-  left: 216px;
-  top: 1370px;
+  float: left;
+  margin-left: 72px;
+  margin-top: -100px;
   z-index: 110;
 }
 
@@ -862,9 +866,9 @@ body {
   text-transform: uppercase;
   line-height: 1.45;
   text-align: left;
-  position: absolute;
-  left: 212px;
-  top: 880px;
+  float: left;
+  margin-left: 70px;
+  margin-top: -260px;
   z-index: 135;
 }
 
@@ -874,9 +878,9 @@ body {
   color: rgba(255, 255, 255, 0.902);
   line-height: 1.563;
   text-align: left;
-  position: absolute;
-  left: 212px;
-  top: 910px;
+  float: left;
+  margin-left: 72px;
+  margin-top: -210px;
   width: 396px;
   height: 38px;
   z-index: 136;
@@ -889,9 +893,10 @@ body {
   text-transform: uppercase;
   line-height: 4.474;
   text-align: center;
-  position: absolute;
-  left: 215px;
-  top: 985px;
+  float: left;
+  margin-left: 72px;
+  margin-top: -100px;
+  z-index: 92;
   z-index: 132;
 }
 
@@ -903,9 +908,9 @@ body {
   text-transform: uppercase;
   line-height: 1.45;
   text-align: left;
-  position: absolute;
-  left: 879px;
-  top: 880px;
+  float: left;
+  margin-left: 70px;
+  margin-top: -260px;
   z-index: 103;
 }
 
@@ -915,9 +920,9 @@ body {
   color: rgba(255, 255, 255, 0.91);
   line-height: 1.563;
   text-align: left;
-  position: absolute;
-  left: 880px;
-  top: 910px;
+  float: left;
+  margin-left: 72px;
+  margin-top: -210px;
   width: 305px;
   height: 41px;
   z-index: 104;
@@ -930,9 +935,9 @@ body {
   text-transform: uppercase;
   line-height: 4.722;
   text-align: center;
-  position: absolute;
-  left: 880px;
-  top: 985px;
+  float: left;
+  margin-left: 72px;
+  margin-top: -100px;
   z-index: 101;
 }
 
@@ -944,9 +949,9 @@ body {
   text-transform: uppercase;
   line-height: 1.45;
   text-align: left;
-  position: absolute;
-  left: 704px;
-  top: 1200px;
+  float: left;
+  margin-left: 70px;
+  margin-top: -260px;
   z-index: 122;
 }
 
@@ -957,9 +962,9 @@ body {
   text-transform: uppercase;
   line-height: 4.474;
   text-align: center;
-  position: absolute;
-  left: 707px;
-  top: 1370px;
+  float: left;
+  margin-left: 72px;
+  margin-top: -100px;
   z-index: 120;
 }
 
@@ -969,9 +974,9 @@ body {
   color: rgba(255, 255, 255, 0.91);
   line-height: 1.563;
   text-align: left;
-  position: absolute;
-  left: 705px;
-  top: 1250px;
+  float: left;
+  margin-left: 72px;
+  margin-top: -210px;
   width: 396px;
   height: 63px;
   z-index: 123;
@@ -1350,22 +1355,23 @@ body {
   border-radius: 2px;
   background-color: rgb(110, 238, 228);
   position: absolute;
-  left: 182px;
-  top: 7688px;
+  left: 20px;
+  top: 370px;
   width: 244px;
   height: 53px;
   z-index: 270;
+  color: rgba(0, 0, 0, 0.702);
+  text-transform: uppercase;
 }
 
-.text_buttom {
+.h3 {
   font-size: 18px;
-  font-family: "ARIAL";
   color: rgba(0, 0, 0, 0.702);
   text-transform: uppercase;
   line-height: 1.556;
   position: absolute;
-  left: 220px;
-  top: 7684px;
+  left: 44px;
+  top: -7px;
   z-index: 271;
 }
 
@@ -1546,3 +1552,71 @@ body {
   top: 7515px;
   z-index: 266;
 }
+
+.ui-form {
+  font-size: 15px;
+  background-color: rgb(2, 22, 35);
+  opacity: 0.71;
+  box-shadow: 0px 0px 30px 0px rgba(21, 21, 21, 0.12);
+  position: absolute;
+  left: 151px;
+  top: 7319px;
+  width: 614px;
+  height: 460px;
+  z-index: 251;}
+
+.form-row {
+  position: relative;
+  margin-bottom: 50px;
+  top: 50px;
+}
+.form-row input {
+  display: block;
+  width: 570px;
+  margin: 20px;
+  line-height: 7px;
+  font-family: "BOOK ANTIQUA", sans-serif;
+  background: none;
+  border-width: 0;
+  border-bottom: 2px solid white;
+  transition: all 0.2s ease;
+}
+.form-row label {
+  position: absolute;
+  margin-top: -16px;
+  left: 20px;
+  color: #9d959d;
+  font-size: 20px;
+  font-weight: 300;
+  transform: translateY(-35px);
+  transition: all 0.2s ease;
+}
+.form-row input:focus {
+  outline: 0;
+  border-color: #F77A52;
+}
+.form-row input:focus + label, 
+.form-row input:valid + label {
+  transform: translateY(-60px);
+  margin-left: -14px;
+  font-size: 14px;
+  font-weight: 400;
+  outline: 0;
+  border-color: white;
+  color: rgba(255, 255, 255, 0.6);
+}
+.ui-form input[type="submit"] {
+  width: 100%;
+  padding: 0;
+  line-height: 42px;
+  background: #4a90e2;
+  border-width: 0;
+  color: white;
+  font-size: 20px;
+}
+.ui-form p {
+  margin: 0;
+  padding-top: 10px;
+}
+
+* {box-sizing: border-box;}
